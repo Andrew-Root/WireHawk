@@ -20,8 +20,7 @@ To install WireHawk, simply clone the repository and install the required depend
 
 Run the script with the following command:
 
-bash
-Copy code
+
 python3 [script-name].py -i <interface> -t <target-ip> -g <gateway-ip>
 -i: Network interface (e.g., eth0, wlan0)
 -t: Target IP address
