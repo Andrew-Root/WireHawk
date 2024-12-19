@@ -17,14 +17,7 @@ Cross-Platform Support: Designed to work on most Linux distributions commonly us
 Installation
 To install WireHawk, simply clone the repository and install the required dependencies:
 
-bash
-Copy code
-git clone https://github.com/username/[repository-name].git
-cd [repository-name]
-pip install -r requirements.txt
-You will also need to have Bettercap and Wireshark (or tshark) installed on your system.
 
-Usage
 Run the script with the following command:
 
 bash
