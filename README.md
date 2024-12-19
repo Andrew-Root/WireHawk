@@ -6,7 +6,7 @@ Unlike traditional network analysis tools, WireHawk does not require setting the
 The tool is designed with penetration testers, network administrators, and security enthusiasts in mind. It facilitates seamless packet capture and analysis by automating the process of network interception using Bettercap, 
 while simultaneously using Wireshark (or tshark) for in-depth traffic analysis.
 
-With a simple and customizable terminal interface, [Project Name] empowers users to monitor network traffic effortlessly, uncovering potential security vulnerabilities, unauthorized access, or network inefficiencies.
+With a simple and customizable terminal interface, WireHawk empowers users to monitor network traffic effortlessly, uncovering potential security vulnerabilities, unauthorized access, or network inefficiencies.
 
 Features
 Automated Bettercap & Wireshark Integration: Seamlessly integrates Bettercap's MITM (Man-in-the-Middle) attacks and traffic interception with Wireshark's packet capture and analysis.
@@ -15,11 +15,11 @@ Real-Time Monitoring: Monitor and capture live network traffic with the ability 
 Customizable Terminal Interface: Easy-to-use command-line interface with configurable options for network interface, target IP, and gateway IP.
 Cross-Platform Support: Designed to work on most Linux distributions commonly used in penetration testing and security analysis.
 Installation
-To install [Project Name], simply clone the repository and install the required dependencies:
+To install WireHawk, simply clone the repository and install the required dependencies:
 
 bash
 Copy code
-git clone https://github.com/yourusername/[repository-name].git
+git clone https://github.com/username/[repository-name].git
 cd [repository-name]
 pip install -r requirements.txt
 You will also need to have Bettercap and Wireshark (or tshark) installed on your system.
